@@ -58,4 +58,4 @@
 
 ---
 
-<p align="center"><i>Miles to go before I sleep 🚀</i></p>
+<p align="center"><i>Training models by day, training discipline by night. 🚀</i></p>
